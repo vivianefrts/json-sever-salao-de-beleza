@@ -1,0 +1,131 @@
+{
+    "servicos":[
+        {
+            "id":1,
+            "tipo":"penteados",
+            "descricao": "preparacao com escova,aplicacao de produtos,finalizacao com a montagem",
+            "preco": 100,
+            "tamanho": ["curto","medio", "longo"],
+            "categoria_id": 1
+            
+        },
+        {
+            "id":2,
+            "tipo":"cortes",
+            "descricao": "",
+            "preco":50,
+            "tamanho":["curto","medio", "longo"],
+            "categoria_id":1
+            
+        },
+        {
+            "id":3,
+            "tipo":"coloracao",
+            "descricao":"",
+            "preco":80,
+            "tamanho":["curto","medio", "longo"],
+            "categoria_id":1
+            
+        },
+        {
+            "id": 4,
+            "tipo":"luzes",
+            "descricao":"",
+            "preco":280,
+            "tamanho":["curto","medio", "longo"],
+            "categoria_id":1
+        },
+        {
+            "id":5,
+            "tipo": "Progressiva com formol",
+            "descricao": "aplicacao do produto, deixar o tempo de acao, enxaguar, escovar e pranchar",
+            "preco": 560,
+            "categoria_id":1
+        },
+        {
+            "id":6,
+            "tipo": "Progressiva sem formol",
+            "descricao":"aplicacao do produto, deixar o tempo de acao, enxaguar retirando 80% do produto, escovar e pranchar no minimo 15 vezes",
+            "preco": 450,
+            "categoria_id":1
+        },
+        {
+            "id":7,
+            "tipo": "Botox",
+            "descricao":"aplicacao do produto, deixar o tempo de acao, enxaguar retirando 100% do produto, escovar e pranchar",
+            "preco":400,
+            "categoria_id":1
+        }
+    
+    ],
+
+    "Cliente":[
+        {
+            "id":1,
+            "nome": "Elenir",
+            "telefone":986748012,
+            "email":"elenirsarandao@gmail.com",
+            "endereco":"rua Mikrokosmos"
+        },
+        {
+            "id":2,
+            "nome": "Alexandra",
+            "telefone":985487617,
+            "email":"xandamoreira@gmail.com",
+            "endereco":"rua moon"
+        },
+        {
+            "id":3,
+            "nome": "Claudia",
+            "telefone": 994856371,
+            "email": "claudiabatista@gmail.com",
+            "endereco": "rua dynamite"
+        },
+        {
+            "id":4,
+            "nome": "Carmen",
+            "telefone": 994856371,
+            "email": "carmenclem@gmail.com",
+            "endereco": "rua airplane"
+        }   
+
+    ],
+
+    "Produtos":[
+        {
+            "id":1,
+            "tipo":"Shampoo",
+            "preco":60,
+            "categoria_id":1
+        },
+        {
+            "id":2,
+            "tipo":"condicionador",
+            "preco":40,
+            "categoria_id":1
+        },
+        {
+            "id":3,
+            "tipo":"Creme de hidratacao",
+            "preco":70,
+            "categoria_id":1
+        },
+        {
+            "id":4,
+            "tipo":"Creme de nutricao",
+            "preco":75,
+            "categoria_id":1
+
+        },
+        {
+            "id":5,
+            "tipo":"Creme de reconstrucao",
+            "preco":85,
+            "categoria_id":1
+
+        }
+
+    ]
+
+}       
+
