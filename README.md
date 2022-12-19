@@ -14,7 +14,7 @@ Seu Json-server deve ser capaz de essas operações (aqui abaixo) nas três ou m
 ## 🛠️ Ferramentas utilizadas 
 `Node.js`,
 `Json-Server`
-## funcionalidades  
+## funcionalidades 
 Para realizar a instalação do json-server é preciso rodar  npm install - g json-server no terminal.
 
 ## 🌍 Acesse o Link do servidor:
