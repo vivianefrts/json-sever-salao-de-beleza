@@ -1,4 +1,5 @@
-![Projeto individual Salão de Beleza](https://user-images.githubusercontent.com/115565161/208587517-2b557acc-45f0-4e2f-8845-908e2d7fe4ca.jpg)
+![Projeto Individual Salão de Beleza](https://user-images.githubusercontent.com/115565161/208598741-2ab76696-55da-4b02-966d-364bf81176a3.png)
+
 
 <h1 align="center"> Salão de Beleza! </h1>
 
