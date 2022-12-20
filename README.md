@@ -1,4 +1,6 @@
-<h1 align="center"> json-sever-salao-de-beleza </h1>
+![Projeto individual Salão de Beleza](https://user-images.githubusercontent.com/115565161/208587517-2b557acc-45f0-4e2f-8845-908e2d7fe4ca.jpg)
+
+<h1 align="center"> Salão de Beleza! </h1>
 
 ##  Descrição 
 Neste projeto foi desenvolvido um servidor Json (Json server) com 3 Rotas e dados que o usuario poderá utilizar as operações C.r.u.d (Get, Post, Put e Delete).
