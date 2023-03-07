@@ -1,7 +1,7 @@
 ![Projeto Individual Salão de Beleza](https://user-images.githubusercontent.com/115565161/208598741-2ab76696-55da-4b02-966d-364bf81176a3.png)
 
 
-<h1 align="center"> Salão de Beleza! </h1>
+<h1 align="center"="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=dance+script&size=27&pause=1000&color=F782BE&background=00000006&width=500&lines=Sal%C3%A3o+de+Beleza+-+Viviane+Coiffeur" alt="Typing SVG" /></a> </h1>
 
 ##  Descrição 
 Neste projeto foi desenvolvido um servidor Json (Json server) com 3 Rotas e dados que o usuario poderá utilizar as operações C.r.u.d (Get, Post, Put e Delete).
